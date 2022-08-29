@@ -22,6 +22,12 @@ npm MySQL
 3. Run the npm install to download packages.
 4.  run the command node index.js.
 
+VIDEO 
+
+
+https://user-images.githubusercontent.com/103155259/187318935-e9214b31-ebc5-4b4c-8365-ed774cc52cde.mp4
+
+
 
 ## User Story
 
